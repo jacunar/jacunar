@@ -1,10 +1,10 @@
 # 👨‍💼 Josué Ally Acuña Ruiz
 🤝Hola, soy ingeniero en sistemas, desde 2010 trabajo en desarrollo de software y programación de aplicaciones principalmente de escritorio para Windows, aplicaciones Web con manejo bases de datos Microsoft SQL Server y PostgreSQL con PostGIS ambas con manejo de información espacial (vectores, imagenes satelitales) tanto de visualización como creación y edición, con tecnología .NET Framework utilizando C#.
 
-- 👀 I’m interested in ...
-- 🌱 Actualmente estoy aprendiendo Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫:speech_balloon: How to reach me ...
+* 👀 Estoy desarrollando aplicaciones .NET que me permitan ampliar mis capacidades de desarrollo en las tecnologías que nos brinda el framework de Microsoft: Web, Desktop, APIs, Mobile y Multi plataforma.
+* 🌱 Actualmente estoy aprendiendo Javascript
+* 💞️ Estoy abierto a colaborar en proyectos .NET
+* 📫:speech_balloon: How to reach me ...
 
 <!---
 jacunar/jacunar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

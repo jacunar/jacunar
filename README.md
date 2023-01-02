@@ -4,6 +4,7 @@
 * 👀 Estoy desarrollando aplicaciones .NET que me permitan ampliar mis capacidades de desarrollo en las tecnologías que nos brinda el framework de Microsoft: Web, Desktop, APIs, Mobile y Multi plataforma.
 * 🌱 Actualmente estoy aprendiendo Javascript
 * 💞️ Estoy abierto a colaborar en proyectos .NET
+* Solución de retos semanales de MoureDev (retosdeprogramacion.com/semanales2023)
 * 📫:speech_balloon: How to reach me ...
 
 <!---
